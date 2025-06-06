@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LuckyNumber</string>
+    <string name="welcome">Welcome to Lucky Number</string>
+</resources>
